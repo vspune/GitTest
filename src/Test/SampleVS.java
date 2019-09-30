@@ -6,6 +6,7 @@ public class SampleVS {
 	{
 		System.out.println("This is a sample program 3");
 		System.out.println("This is a sample program 2");
+		System.out.println("This is a sample program new test");
 		
 	}
 
