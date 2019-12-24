@@ -5,8 +5,13 @@ public class SampleVS {
 	public static void main(String args[])
 	{
 		System.out.println("This is a sample program 1");
+<<<<<<< HEAD
 		System.out.println("Vaibhav here");
+		System.out.println("This is a sample program 3");
+=======
+		System.out.println("This is a sample 124142 program 2");
 		System.out.println("This is a sample 124124 program 3");
+>>>>>>> 6ffeebaa65dfcc2c70f61f14634331acfcf52d91
 		
 	}
 
